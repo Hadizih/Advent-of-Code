@@ -1,5 +1,7 @@
 import re
 
+#https://adventofcode.com/2023/day/1
+
 values = """9dlvndqbddghpxc
 rtkrbtthree8sixfoureight6
 fdxrqmfxdkstpmcj7lmphgsmqqnmjrtwo3tcbc
